@@ -111,6 +111,9 @@ html{
     min-width: 100%;
     flex-basis: 0;
   }
+  #hli{
+    list-style: none;
+  }
 
   .goals{
     /* color: #5CB8E4; */
